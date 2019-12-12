@@ -14,3 +14,12 @@ If you cannot install it, you can work with the web editor found [here](hello.pr
 - [Processing Development Environment](processing.org/download) or [Web Editor](hello.processing.org/editor)
 - [PowerPoint](creative_coding_in_processing.pptx)
 - [Code Example](./circles.zip)
+
+## Continue Learning!
+- [Official Processing Website](processing.org)
+- [Official Tutorials](https://processing.org/tutorials/) and [Examples](https://processing.org/examples/)
+- [Tutorial Books and Textbooks](https://processing.org/books/)
+- [Official online Hour of Code activity](hello.processing.org)
+- [View code examples at OpenProcessing.org](openprocessing.org)
+- [*Learning Processing* textbook and website](http://learningprocessing.com)
+- [Daniel Shiffman's Coding Train Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
