@@ -9,6 +9,8 @@ If you wish to participate should have Processing installed on your computer bef
 
 If you cannot install it, you can work with the web editor found [here](https://hello.processing.org/editor/#editor).
 
+Let's have some fun!
+
 ## Materials
 
 - [Processing Development Environment](https://processing.org/download) or [Web Editor](https://hello.processing.org/editor/#editor)
